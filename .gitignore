@@ -8,3 +8,6 @@ __pycache__/
 
 # data (video/frames/labels will live here later, kept out of git)
 data/
+
+# saved session screenshots
+screenshots/
